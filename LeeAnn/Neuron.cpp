@@ -1,5 +1,7 @@
 #include "Neuron.h"
 #include <iostream>
+#include <boost\shared_ptr.hpp>
+
 using namespace std;
 class NeuroCube;
 InputEvent::InputEvent()

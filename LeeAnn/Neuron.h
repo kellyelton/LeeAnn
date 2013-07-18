@@ -4,6 +4,8 @@
 #include <vector>
 #include <deque>
 #include "NeuronMath.h"
+#include <boost\shared_ptr.hpp>
+
 //#include "Algorithm.h"
 using namespace std;
 class Algorithm;
